@@ -1,2 +1,2 @@
-LINE 1 - We will change text on this line from two different GitHub accounts and then commit these changes
-	 to show how a merge conflict occurs.
+LINE 1 - Using Branch-1, we will change the text of LINE 1...
+LINE 2 - to show how a merge conflict occurs.
